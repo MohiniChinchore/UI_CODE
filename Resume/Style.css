@@ -1,0 +1,53 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+h3{
+    color:rgb(233, 19, 86);
+}
+#AA{
+    border-radius: 100px;
+    border: solid palevioletred;
+    height: 110px;
+    width: 110px;
+    position: fixed;
+    right: 1px;
+   
+}
+h2{
+    color: rgb(211, 10, 121);
+    padding-left:560px;
+}
+body{
+    background-image: linear-gradient(to left,pink,lightgreen,skyblue);
+}
+#S{
+    position: fixed;
+    right: 1px;
+    bottom: 1px;
+    height: 50px;
+}
+#r{
+
+    padding-left: 600px;
+}
+#d-1{
+    background-color: cornsilk;
+    display: flex;
+    justify-content: space-around;
+}
+#main{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    height: 25px;
+}
+
+div{
+    display: flex;
+}
+a{
+    margin: 3px;
+}
